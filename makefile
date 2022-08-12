@@ -12,5 +12,8 @@ run_globe:
 run_prism:
 	python ./prism/prism.py
 
+run_pyramid:
+	python ./pyramid/pyramid.py
+
 clean:
 	rm -rf __pycache__
