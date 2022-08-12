@@ -161,7 +161,7 @@ def main():
     glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE | GLUT_DEPTH)
     glutInitWindowSize(640, 480)
     glutInitWindowPosition(0, 0)
-    glutCreateWindow("Dado Textura")
+    glutCreateWindow("Dice")
     glutDisplayFunc(DrawGLScene)
     glutIdleFunc(DrawGLScene)
     glutReshapeFunc(ReSizeGLScene)
