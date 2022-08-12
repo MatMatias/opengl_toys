@@ -9,8 +9,8 @@ run_dice:
 run_globe:
 	python ./globe/globe.py
 
-run_pyramid:
-	python ./pyramid/pyramid.py
+run_prism:
+	python ./prism/prism.py
 
 clean:
 	rm -rf __pycache__
