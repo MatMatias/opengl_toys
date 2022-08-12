@@ -12,8 +12,8 @@ run_globe:
 run_prism:
 	python ./prism/prism.py
 
-run_pyramid:
-	python ./pyramid/pyramid.py
+run_paraboloid:
+	python ./paraboloid/paraboloid.py
 
 clean:
 	rm -rf __pycache__
