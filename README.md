@@ -58,3 +58,11 @@ $ make run_prism
 ```
 $ make run_paraboloid
 ```
+
+### Sphere
+
+This sphere uses modern openGL
+
+```
+$ make run_sphere
+```
