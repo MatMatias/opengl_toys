@@ -15,5 +15,8 @@ run_prism:
 run_paraboloid:
 	python ./paraboloid/paraboloid.py
 
+run_sphere:
+	cd ./sphere && python SphereApp.py
+
 clean:
 	rm -rf __pycache__
