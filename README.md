@@ -18,6 +18,10 @@ The objective of this project is to study OpenGL. Four different objects were bu
 
 ![paraboloid gif broken](paraboloid/paraboloid.gif)
 
+## Sphere
+
+![sphere gif broken](sphere/sphere.gif)
+
 ## Dependecies
 
 This project has the following dependecies
