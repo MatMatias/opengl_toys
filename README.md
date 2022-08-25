@@ -1,6 +1,6 @@
 # OPENGL TOYS
 
-The objective of this project is to study OpenGL. Four different objects were built, that being the following:
+The objective of this project is to study OpenGL. Five different objects were built, that being the following:
 
 ## Dice
 
